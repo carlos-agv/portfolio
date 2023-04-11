@@ -1,0 +1,1 @@
+Se genera un archivo de texto simple para control. Desde ORIGINAL
