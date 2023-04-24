@@ -1,3 +1,21 @@
 # JavaScript
 
-Utilizado ampliamente en el FrontEnd por medio del a herramienta de [ExtJS](https://www.sencha.com/products/extjs/) de Sencha.
+[ExtJS](https://www.sencha.com/products/extjs/) de Sencha para el FrontEnd.
+
+```JS
+Ext.create('principalAPP',{
+    extendend: 'application',
+    id: 'elProyecto',
+    name: 'sinErrores',
+    items: [{
+        xtype: 'componenteTrabajo',
+        dedicacion: true,
+        entrega: 100
+    }],
+    plugins: {
+        type: 'analisis',
+        value: 1
+    },
+    rendered: 'body'
+})
+```

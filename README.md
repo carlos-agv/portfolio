@@ -7,7 +7,7 @@ Soy Ingeniero en Sistemas Computacionales y son un entusiasta de la tecnologia, 
 
 [JavaScript](JS.md)<br>
 [Adobe ColdFusion](ACF.md)<br>
-[Microsoft SQL Server](SQL.md)<br>
+[SQL Server](SQL.md)<br>
 [CSS](CSS.md)<br>
 [Node.JS](NJS.md)<br>
 [Swift](SW.md)
