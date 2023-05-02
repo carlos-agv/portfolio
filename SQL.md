@@ -1,4 +1,7 @@
-Microsoft SQL Server para la gestion de datos.
+
+# Microsoft SQL Server
+
+[SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2022) Como manejador de base de datos.
 
 ```SQL
 SELECT
