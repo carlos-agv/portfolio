@@ -1,0 +1,6 @@
+route (enturados primario)
+
+	- dao = LOGICA
+	- dto = objetos componentes
+	- schema = clases
+	- services - ?

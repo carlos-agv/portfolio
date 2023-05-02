@@ -1,0 +1,24 @@
+
+PENDIENTES ______________________________________
+
+FR
+23 Mar 2022 :: Francisco R :: Notifique que APP Previos Truena cuando el usuario no tiene accesos. Ver carpeta de Predix.
+11 Abr 2022 :: Francisco R :: Notifique posible solución al detalle de los decimales en la APP Previos. Ver carpeta de Predix.
+27 May 2022 :: Francisco R :: Envie mejora para replicar observaciones de APP Previos. Ver carpeta Predix
+20 May 2022 :: Francisco R :: Envié cambios y mejoras para App Previos. Ver carpeta de Predix.
+
+JH
+24 Abr 2023 :: Jorge Hernandez :: No copia GUIAS de facturas en R1. Ticket COE-12194
+
+
+
+
+
+
+
+HECHOS __________________________________________
+
+Terminado Feb 2023 -> 24 May 2022 :: Jorge Hernandez :: Notifique tazas IVA para Globales T1. Ticket TIJ-00721
+Terminado Mar 2023 -> 18 Oct 2022 :: Jorge Hernandez :: Notifique mejora para apertura de consolidados automatica. Via correo.
+Terminado Abr 2023 -> 30 May 2022 :: Jorge Hernandez :: Notifique mejora para identificador PO. Ver ticket COE-08831
+TErminado 28 Abr 2023 -> 26 May 2022 :: Jorge Hernandez :: Envié mejora para cantidad comercial para permisos de partidas. Ticket COE-08785
