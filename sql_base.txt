@@ -1,3 +1,0 @@
-SELECT *
-FROM o_cat_partes
-WHERE parte_numero = ''ABC123
