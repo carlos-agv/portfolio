@@ -1,4 +1,0 @@
-Elementos generados desde PORTFOLIO en -agv
-Se agrega una segunda
-Y una tercera linea 
-Para un nuevo COMMIT
