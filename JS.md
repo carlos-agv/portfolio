@@ -1,6 +1,7 @@
 # JavaScript
 
-[ExtJS](https://www.sencha.com/products/extjs/) de Sencha para el FrontEnd.
+*Framework*
+[ExtJS](https://www.sencha.com/products/extjs/)
 
 ```JS
 Ext.create('principalAPP',{
