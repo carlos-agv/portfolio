@@ -20,3 +20,8 @@ Soy un un entusiasta de la tecnologia, los video juegos y del desarrollo de Soft
 ## Contactame
 
 ✉️ carlos.cagm@icloud.com
+
+[👨🏻‍💻 LinkedIn](https://www.linkedin.com/in/isc-cagv/) 
+
+[Twitter] (https://twitter.com/CarlosCagm/)
+
