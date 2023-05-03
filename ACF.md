@@ -1,6 +1,6 @@
 # Adobe ColdFusion 
 
-[CF](https://www.adobe.com/products/coldfusion-family.html) de Adobe para el BacktEnd.
+[CF](https://www.adobe.com/products/coldfusion-family.html) de Adobe para el Backend.
 
 ```XML
 <cfoutput>
