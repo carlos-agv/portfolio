@@ -1,7 +1,7 @@
 
 # CSS
 
-[CSS]() como gestor de estilos.
+[CSS](https://developer.mozilla.org/es/docs/Web/CSS) como gestor de estilos.
 
 ``` CSS
 .mi_estilo{
