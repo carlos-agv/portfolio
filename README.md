@@ -41,9 +41,6 @@ Me gusta el cine de ciencia ficcion, accion y belico. Me gusta el anime japones 
 [👨🏻‍💻 LinkedIn](https://www.linkedin.com/in/isc-cagv/) 
 
 [🐦 Twitter](https://twitter.com/CarlosCagm/)
-<<<<<<< HEAD
 
 [📘 Facebook](https://www.facebook.com/charls.ackerman)
 
-=======
->>>>>>> 6c7cfd1cbc434aabb8a3f2e298da99848b5817af
