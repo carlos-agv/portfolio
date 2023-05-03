@@ -1,6 +1,6 @@
 # NODE JS
 
-Node JS para el BE
+Node JS para el Backend
 
 ```JS
 const http = require('http');
