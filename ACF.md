@@ -3,6 +3,7 @@
 [CF](https://www.adobe.com/products/coldfusion-family.html) de Adobe para el Backend.
 
 ```XML
+<cfset consulta_mis_datos = QueryNew()>
 <cfoutput>
     <cfloop query="consulta_mis_datos">
         Nombre: #con_mis_datos.nombre_dev#<br>
