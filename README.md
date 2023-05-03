@@ -6,12 +6,12 @@ Soy un un entusiasta de la tecnologia, los video juegos y del desarrollo de Soft
 
 ## Algunos de mis lenguajes preferidos.
 
-[JavaScript](JS.md)<br>
-[Adobe ColdFusion](ACF.md)<br>
-[SQL Server](SQL.md)<br>
-[CSS](CSS.md)<br>
-[Node.JS](NJS.md)<br>
-[Swift](SW.md)
+[JavaScript](Support/JS.md)<br>
+[Adobe ColdFusion](Support/ACF.md)<br>
+[SQL Server](Support/SQL.md)<br>
+[CSS](Support/CSS.md)<br>
+[Node.JS](Support/NJS.md)<br>
+[Swift](Support/SW.md)
 
 ## Lista de video juegos 
 
@@ -23,4 +23,4 @@ Soy un un entusiasta de la tecnologia, los video juegos y del desarrollo de Soft
 
 [👨🏻‍💻 LinkedIn](https://www.linkedin.com/in/isc-cagv/) 
 
-[Twitter] (https://twitter.com/CarlosCagm/)
+[🐦 Twitter](https://twitter.com/CarlosCagm/)
