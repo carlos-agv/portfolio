@@ -5,6 +5,7 @@
 ```XML
 <cfset consulta_mis_datos = QueryNew("nombre_dev", "Varchar")>
 <cfset QueryAddColumn(consulta_mis_datos, "direccion_dev", "Varchar")>
+<cfset QueryAddColumn(consulta_mis_datos, "datos_dev", "Varchar")>
 <cfoutput>
     <cfloop query="consulta_mis_datos">
         Nombre: #con_mis_datos.nombre_dev#<br>
