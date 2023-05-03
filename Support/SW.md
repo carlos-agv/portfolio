@@ -3,5 +3,9 @@
 [SWIFT](https://developer.apple.com/swift/) para aplicaciones moviles iOS.
 
 ```SWIFT
-print("Carlos desde iOS")
+let elNombre: String
+elNombre = "Carlos Garcia V"
+print(elNombre)
+miEtiqueta.text = elNombre
+
 ```
