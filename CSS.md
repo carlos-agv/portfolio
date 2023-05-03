@@ -5,8 +5,8 @@
 
 ``` CSS
 .mi_estilo{
-    font-size: 100px;
-    color: red;
+    font-size: 16px;
+    color: #DC143C;
     border: none;
 }
 ```
