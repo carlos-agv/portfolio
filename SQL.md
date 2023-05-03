@@ -13,4 +13,5 @@ FROM
 WHERE
     actitud LIKE '%positiva%'
     AND coffe = 1
+    AND music = 'OnLine'
 ```
