@@ -6,7 +6,7 @@ Soy un un entusiasta de la tecnologia, los video juegos y del desarrollo de Soft
 
 Me gusta el cine de ciencia ficcion, accion y belico. Me gusta el anime japones y los mangas.
 
-## Algunos de mis lenguajes preferidos.
+## TECNOLOGIAS
 
 [JavaScript](Support/JS.md)<br>
 [Adobe ColdFusion](Support/ACF.md)<br>
@@ -15,7 +15,7 @@ Me gusta el cine de ciencia ficcion, accion y belico. Me gusta el anime japones 
 [Node.JS](Support/NJS.md)<br>
 [Swift](Support/SW.md)
 
-## Lista de video juegos 
+## GAMER
 
 - Resident Evil
 - Horizon Zero Down
@@ -34,7 +34,7 @@ Me gusta el cine de ciencia ficcion, accion y belico. Me gusta el anime japones 
 - Inside
 - MFS
 
-## Contactame
+## CONTACTAME
 
 ✉️ carlos.cagm@icloud.com
 
