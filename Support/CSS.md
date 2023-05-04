@@ -10,4 +10,11 @@
     border: none;
     padding: 50;
 }
+
+.el_desarrollo {
+    font-size: 0px;
+    color: #000;
+    border: none;
+    padding: 0;
+}
 ```
