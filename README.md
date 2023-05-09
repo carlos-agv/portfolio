@@ -40,10 +40,7 @@ Soy un entusiasta de la tecnologia, los video juegos y del desarrollo de softwar
 ## CONTACTO
 
 - carlos.cagm@icloud.com
-
-- [LinkedIn](https://www.linkedin.com/in/isc-cagv/) 
-
-- [Twitter](https://twitter.com/CarlosCagm/)
-
-- [Facebook](https://www.facebook.com/charls.ackerman)
+- [<img src="./Media/L.png" width="15" height="15"> LinkedIn](https://www.linkedin.com/in/isc-cagv/) 
+- [<img src="./Media/T.png" width="15" height="15"> Twitter](https://twitter.com/CarlosCagm/)
+- [<img src="./Media/F.png" width="15" height="15"> Facebook](https://www.facebook.com/charls.ackerman)
 
