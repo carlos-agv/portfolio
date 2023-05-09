@@ -4,19 +4,19 @@
 [ExtJS](https://www.sencha.com/products/extjs/)
 
 ```JS
-Ext.create('principalAPP',{
-    extendend: 'application',
-    id: 'elProyecto',
-    name: 'sinErrores',
-    items: [{
-        xtype: 'componenteTrabajo',
-        dedicacion: true,
-        entrega: 100
-    }],
-    plugins: {
-        type: 'analisis',
-        value: 1
-    },
-    rendered: 'body'
-})
+// Ejemplo:
+Ext.define('MyApp.Application', {
+    extend: 'Ext.app.Application',
+    name: 'MyApp',
+    launch: function () {
+        Ext.create('Ext.panel.Panel', {
+            renderTo: Ext.getBody(),
+            width: 400,
+            height: 200,
+            title: 'Hola desde ExtJS.',
+            html: 'La APP en ExtJS!'
+        });
+    }
+});
+Ext.create('MyApp.Application');
 ```
