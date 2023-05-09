@@ -3,7 +3,7 @@
 *Framework*
 [ExtJS](https://www.sencha.com/products/extjs/)
 
-```JS
+```JS Ejemplo
 Ext.create('principalAPP',{
     extendend: 'application',
     id: 'elProyecto',
