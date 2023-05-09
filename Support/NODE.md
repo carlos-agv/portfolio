@@ -1,6 +1,6 @@
 # NODE JS
 
-Node JS para el Backend
+Node JS para gestión de servidor.
 
 ```JS
 const http = require('http');
@@ -9,10 +9,10 @@ const port = 3000;
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end('Carlos Garcia desde NODE.js');
+  res.end('Vivo desde NODE.js');
 });
 
 server.listen(port, hostname, () => {
-  console.log(`Servidor corriendo en http://${hostname}:${port}/`);
+  console.log(`Servidor [corriendo] en http://${hostname}:${port}/`);
 });
 ```
