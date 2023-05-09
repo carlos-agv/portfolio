@@ -1,18 +1,24 @@
 
 # Microsoft SQL Server
 
-[SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2022) Como manejador de base de datos.
+[Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2022) manejador de base de datos.
 
 ```SQL
-SELECT
-    sqlServerDB AS HABILIDAD,
-    dedicacion AS TRABAJO,
-    bicicleta AS PASATIEMPO
-FROM
-    rutinaDeTodosLosDias
-WHERE
-    actitud LIKE '%positiva%'
-    AND coffe = 1
-    AND music = 'OnLine'
-    AND time BETWEEN 1 AND 8
+--> Ejemplo:
+CREATE TABLE miTabla (
+    columna1 INT,
+    columna2 VARCHAR(50),
+    columna3 DATE
+);
+
+BULK INSERT miTabla
+FROM 'C:\datos.csv'
+WITH (
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2
+);
+
+SELECT *
+FROM miTabla;
 ```

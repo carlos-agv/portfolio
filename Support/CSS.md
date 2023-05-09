@@ -1,20 +1,27 @@
 
 # CSS
 
-[CSS](https://developer.mozilla.org/es/docs/Web/CSS) como gestor de estilos.
+[CSS](https://developer.mozilla.org/es/docs/Web/CSS).
 
 ``` CSS
-.mi_estilo{
-    font-size: 16px;
-    color: #DC143C;
-    border: none;
-    padding: 50;
+/* Ejemplo */
+#animaDIV {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    animation-name: moverDIV;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 
-.el_desarrollo {
-    font-size: 0px;
-    color: #000;
-    border: none;
-    padding: 0;
+@keyframes moverDIV {
+    from {
+        left: 0px;
+    }
+    to {
+        left: 200px;
+    }
 }
 ```
