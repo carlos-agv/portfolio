@@ -42,8 +42,8 @@ Un poco mas de mi, soy seguidor del anime, manga, filmes, geek, LEGO.
 ## CONTACTO
 
 - carlos.cagm@icloud.com
-- [<img src="./Media/L.png" width="15" height="15"> LinkedIn](https://www.linkedin.com/in/isc-cagv/) 
-- [<img src="./Media/T.png" width="15" height="15"> Twitter](https://twitter.com/CarlosCagm/)
-- [<img src="./Media/F.png" width="15" height="15"> Facebook](https://www.facebook.com/charls.ackerman)
-- [<img src="./Media/G.png" width="15" height="15"> gitHUB](https://carlos-agv.github.io/portfolio/)
+- [<img src="./Media/L.png" width="15" height="15"> LinkedIn](https://www.linkedin.com/in/isc-cagv/){:target="_blank"}
+- [<img src="./Media/T.png" width="15" height="15"> Twitter](https://twitter.com/CarlosCagm/){:target="_blank"}
+- [<img src="./Media/F.png" width="15" height="15"> Facebook](https://www.facebook.com/charls.ackerman){:target="_blank"}
+- [<img src="./Media/G.png" width="15" height="15"> gitHUB](https://carlos-agv.github.io/portfolio/){:target="_blank"}
 
